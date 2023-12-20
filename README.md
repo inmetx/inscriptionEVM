@@ -1,4 +1,6 @@
 Inscription Tools---支持EMV兼容链的自动Mint铭文工具
+
+
 ##使用此工具前，请确保您已安装Python,制作者版本为例：
 -Python 3.11.6
 -Web3 6.11.3
