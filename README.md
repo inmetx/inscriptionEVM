@@ -1,4 +1,4 @@
-# Inscription Tools-支持EMV兼容链的自动Mint铭文工具
+# Inscription Tools-支持EVM兼容链的自动Mint铭文工具
 
 ## 概述
 `EVM_inscription`是一个使用 Python编写的脚本，意在简化Mint铭文繁琐且效率过低的问题，通过此脚本自动高效批量创建铭文，兼容EVM区块链
